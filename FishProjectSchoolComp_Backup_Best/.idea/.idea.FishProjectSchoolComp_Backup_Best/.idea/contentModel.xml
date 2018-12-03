@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\10808016\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_FishProjectSchoolComp_Backup_Best.-444688843.00" t="ExcludeRecursive" />
+    <e p="C:\Users\10808016\Desktop\FishProjectSchoolComp_Backup_Best" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="NastyWizard_IK" t="Include">
+          <e p="NastyIK" t="Include">
+            <e p="README.txt" t="Include" />
+            <e p="Scripts" t="Include">
+              <e p="CustomEditor" t="Include">
+                <e p="EditorIKSolver.cs" t="Include" />
+              </e>
+              <e p="CustomIKJoint.cs" t="Include" />
+              <e p="CustomIKSolver.cs" t="Include" />
+              <e p="CustomIKTriSolver.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="CameraFollow.cs" t="Include" />
+          <e p="DeathMedium.cs" t="Include" />
+          <e p="Draggable.cs" t="Include" />
+          <e p="NoRotation.cs" t="Include" />
+          <e p="NoRotationXoff.cs" t="Include" />
+          <e p="ParentScript.cs" t="Include" />
+          <e p="RelativeLocation.cs" t="Include" />
+          <e p="RunCountdown.cs" t="Include" />
+          <e p="ScriptableObj_Bool.cs" t="Include" />
+        </e>
+      </e>
+      <e p="FishProjectSchoolComp_Backup_Best.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

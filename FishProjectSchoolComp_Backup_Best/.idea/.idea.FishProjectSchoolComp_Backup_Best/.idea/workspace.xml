@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f491f5b6-1052-40d6-ae0b-3b3cfcc0072c" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="CameraFollow.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraFollow.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1542759538000" expanded="false" signature="6:78" ph="..." />
+                <marker date="1542759538000" expanded="true" signature="122:835" ph="{...}" />
+                <marker date="1542759538000" expanded="true" signature="384:567" ph="{...}" />
+                <marker date="1542759538000" expanded="true" signature="642:833" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ParentScript.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ParentScript.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <marker date="1543866570959" expanded="false" signature="6:131" ph="..." />
+                <marker date="1543866570959" expanded="true" signature="174:312" ph="{...}" />
+                <marker date="1543866570959" expanded="true" signature="246:310" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RunCountdown.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/RunCountdown.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+              <folding>
+                <marker date="1543872557417" expanded="false" signature="6:100" ph="..." />
+                <marker date="1543872557417" expanded="true" signature="143:461" ph="{...}" />
+                <marker date="1543872557417" expanded="true" signature="191:457" ph="{...}" />
+                <marker date="1543872557417" expanded="true" signature="267:368" ph="{...}" />
+                <marker date="1543872557417" expanded="true" signature="372:454" ph="/* label.text = &quot;&quot;; ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ScriptableObj_Bool.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ScriptableObj_Bool.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+              <folding>
+                <marker date="1543869305780" expanded="false" signature="6:78" ph="..." />
+                <marker date="1543869305780" expanded="true" signature="177:235" ph="{...}" />
+                <marker date="1543869305780" expanded="true" signature="222:231" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Draggable.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Draggable.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="17" column="5" selection-start-line="11" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
+              <folding>
+                <marker date="1542761754000" expanded="false" signature="6:44" ph="..." />
+                <marker date="1542761754000" expanded="true" signature="129:720" ph="{...}" />
+                <marker date="1542761754000" expanded="true" signature="210:448" ph="{...}" />
+                <marker date="1542761754000" expanded="true" signature="470:712" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RelativeLocation.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/RelativeLocation.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="422">
+              <caret line="41" column="9" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+              <folding>
+                <marker date="1543872862865" expanded="false" signature="6:44" ph="..." />
+                <marker date="1543872862865" expanded="true" signature="94:924" ph="{...}" />
+                <marker date="1543872862865" expanded="true" signature="242:306" ph="/* public float xPos; ... */" />
+                <marker date="1543872862865" expanded="true" signature="321:368" ph="{...}" />
+                <marker date="1543872862865" expanded="true" signature="389:817" ph="{...}" />
+                <marker date="1543872862865" expanded="true" signature="833:919" ph="{...}" />
+                <marker date="1543872862865" expanded="true" signature="865:912" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DeathMedium.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/DeathMedium.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+              <folding>
+                <marker date="1543874618388" expanded="false" signature="6:78" ph="..." />
+                <marker date="1543874618388" expanded="true" signature="120:408" ph="{...}" />
+                <marker date="1543874618388" expanded="true" signature="206:406" ph="{...}" />
+                <marker date="1543874618388" expanded="true" signature="331:400" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RelativeLocation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ScriptableObj_Bool.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Draggable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ParentScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DeathMedium.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraFollow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RunCountdown.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/ParentScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ScriptableObj_Bool.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ButtonParent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RunCountdown.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RelativeLocation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DeathMedium.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="189" />
+    <option name="y" value="162" />
+    <option name="width" value="1440" />
+    <option name="height" value="780" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="FishProjectSchoolComp_Backup_Best" type="483dac07:UnityExplorerNode$Root" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f491f5b6-1052-40d6-ae0b-3b3cfcc0072c" name="Default" comment="" />
+      <created>1543866498805</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543866498805</updated>
+      <workItem from="1543866502994" duration="3775000" />
+      <workItem from="1543870924565" duration="3123000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6898000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="189" y="162" width="1440" height="780" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2536232" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" isUnityUI="true" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraFollow.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1542759538000" expanded="false" signature="6:78" ph="..." />
+            <marker date="1542759538000" expanded="true" signature="122:835" ph="{...}" />
+            <marker date="1542759538000" expanded="true" signature="384:567" ph="{...}" />
+            <marker date="1542759538000" expanded="true" signature="642:833" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ParentScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <marker date="1543866570959" expanded="false" signature="6:131" ph="..." />
+            <marker date="1543866570959" expanded="true" signature="174:312" ph="{...}" />
+            <marker date="1543866570959" expanded="true" signature="246:310" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ScriptableObj_Bool.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+          <folding>
+            <marker date="1543869305780" expanded="false" signature="6:78" ph="..." />
+            <marker date="1543869305780" expanded="true" signature="177:235" ph="{...}" />
+            <marker date="1543869305780" expanded="true" signature="222:231" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Draggable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="17" column="5" selection-start-line="11" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <marker date="1542761754000" expanded="false" signature="6:44" ph="..." />
+            <marker date="1542761754000" expanded="true" signature="129:720" ph="{...}" />
+            <marker date="1542761754000" expanded="true" signature="210:448" ph="{...}" />
+            <marker date="1542761754000" expanded="true" signature="470:712" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/RelativeLocation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="43" column="47" selection-start-line="43" selection-start-column="47" selection-end-line="43" selection-end-column="47" />
+          <folding>
+            <marker date="1543872862865" expanded="false" signature="6:44" ph="..." />
+            <marker date="1543872862865" expanded="true" signature="94:924" ph="{...}" />
+            <marker date="1543872862865" expanded="true" signature="242:306" ph="/* public float xPos; ... */" />
+            <marker date="1543872862865" expanded="true" signature="321:368" ph="{...}" />
+            <marker date="1543872862865" expanded="true" signature="389:817" ph="{...}" />
+            <marker date="1543872862865" expanded="true" signature="833:919" ph="{...}" />
+            <marker date="1543872862865" expanded="true" signature="865:912" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ButtonParent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ParentScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <marker date="1543866570959" expanded="false" signature="6:131" ph="..." />
+            <marker date="1543866570959" expanded="true" signature="174:312" ph="{...}" />
+            <marker date="1543866570959" expanded="true" signature="246:310" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraFollow.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1542759538000" expanded="false" signature="6:78" ph="..." />
+            <marker date="1542759538000" expanded="true" signature="122:835" ph="{...}" />
+            <marker date="1542759538000" expanded="true" signature="384:567" ph="{...}" />
+            <marker date="1542759538000" expanded="true" signature="642:833" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Draggable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="17" column="5" selection-start-line="11" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <marker date="1542761754000" expanded="false" signature="6:44" ph="..." />
+            <marker date="1542761754000" expanded="true" signature="129:720" ph="{...}" />
+            <marker date="1542761754000" expanded="true" signature="210:448" ph="{...}" />
+            <marker date="1542761754000" expanded="true" signature="470:712" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ScriptableObj_Bool.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+          <folding>
+            <marker date="1543869305780" expanded="false" signature="6:78" ph="..." />
+            <marker date="1543869305780" expanded="true" signature="177:235" ph="{...}" />
+            <marker date="1543869305780" expanded="true" signature="222:231" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ButtonParent.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/RunCountdown.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          <folding>
+            <marker date="1543872557417" expanded="false" signature="6:100" ph="..." />
+            <marker date="1543872557417" expanded="true" signature="143:461" ph="{...}" />
+            <marker date="1543872557417" expanded="true" signature="191:457" ph="{...}" />
+            <marker date="1543872557417" expanded="true" signature="267:368" ph="{...}" />
+            <marker date="1543872557417" expanded="true" signature="372:454" ph="/* label.text = &quot;&quot;; ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/RelativeLocation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="41" column="9" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+          <folding>
+            <marker date="1543872862865" expanded="false" signature="6:44" ph="..." />
+            <marker date="1543872862865" expanded="true" signature="94:924" ph="{...}" />
+            <marker date="1543872862865" expanded="true" signature="242:306" ph="/* public float xPos; ... */" />
+            <marker date="1543872862865" expanded="true" signature="321:368" ph="{...}" />
+            <marker date="1543872862865" expanded="true" signature="389:817" ph="{...}" />
+            <marker date="1543872862865" expanded="true" signature="833:919" ph="{...}" />
+            <marker date="1543872862865" expanded="true" signature="865:912" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DeathMedium.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <marker date="1543874618388" expanded="false" signature="6:78" ph="..." />
+            <marker date="1543874618388" expanded="true" signature="120:408" ph="{...}" />
+            <marker date="1543874618388" expanded="true" signature="206:406" ph="{...}" />
+            <marker date="1543874618388" expanded="true" signature="331:400" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
