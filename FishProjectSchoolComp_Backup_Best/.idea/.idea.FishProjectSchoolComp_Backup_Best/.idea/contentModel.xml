@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\10808016\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_FishProjectSchoolComp_Backup_Best.-444688843.00" t="ExcludeRecursive" />
-    <e p="C:\Users\10808016\Desktop\FishProjectSchoolComp_Backup_Best" t="IncludeRecursive">
+    <e p="C:\Users\Ryley Burnett\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Ryley Burnett\.Rider2018.2\system\resharper-host\Local\Transient\ReSharperHost\v182\SolutionCaches\_FishProjectSchoolComp_Backup_Best.2012109897.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Ryley Burnett\Desktop\OspreyAnatomy\FishProjectSchoolComp_Backup_Best" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="NastyWizard_IK" t="Include">
@@ -20,6 +21,8 @@
         </e>
         <e p="Scripts" t="Include">
           <e p="CameraFollow.cs" t="Include" />
+          <e p="CoinScript.cs" t="Include" />
+          <e p="CoinTextReadout.cs" t="Include" />
           <e p="DeathMedium.cs" t="Include" />
           <e p="Draggable.cs" t="Include" />
           <e p="NoRotation.cs" t="Include" />
@@ -27,7 +30,7 @@
           <e p="ParentScript.cs" t="Include" />
           <e p="RelativeLocation.cs" t="Include" />
           <e p="RunCountdown.cs" t="Include" />
-          <e p="ScriptableObj_Bool.cs" t="Include" />
+          <e p="ScriptableObjectCoin.cs" t="Include" />
         </e>
       </e>
       <e p="FishProjectSchoolComp_Backup_Best.sln" t="IncludeFlat" />
