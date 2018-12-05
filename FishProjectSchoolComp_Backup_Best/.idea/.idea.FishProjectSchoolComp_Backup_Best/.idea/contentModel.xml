@@ -25,12 +25,15 @@
           <e p="CoinTextReadout.cs" t="Include" />
           <e p="DeathMedium.cs" t="Include" />
           <e p="Draggable.cs" t="Include" />
+          <e p="MenuToggle.cs" t="Include" />
           <e p="NoRotation.cs" t="Include" />
           <e p="NoRotationXoff.cs" t="Include" />
           <e p="ParentScript.cs" t="Include" />
+          <e p="PauseMenu.cs" t="Include" />
           <e p="RelativeLocation.cs" t="Include" />
           <e p="RunCountdown.cs" t="Include" />
           <e p="ScriptableObjectCoin.cs" t="Include" />
+          <e p="ScriptableObjectPauseMenu.cs" t="Include" />
         </e>
       </e>
       <e p="FishProjectSchoolComp_Backup_Best.sln" t="IncludeFlat" />

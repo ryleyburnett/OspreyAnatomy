@@ -11,5 +11,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e0453305412e494997632a899bd8423, type: 3}
   m_Name: Coin Counter
   m_EditorClassIdentifier: 
-  coinCount: 46
-  score: 338
+  coinCount: 24
+  score: 108

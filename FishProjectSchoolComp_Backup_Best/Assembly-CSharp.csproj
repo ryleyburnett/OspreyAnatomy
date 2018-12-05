@@ -66,12 +66,15 @@
     <Compile Include="Assets\Scripts\CoinTextReadout.cs" />
     <Compile Include="Assets\Scripts\DeathMedium.cs" />
     <Compile Include="Assets\Scripts\Draggable.cs" />
+    <Compile Include="Assets\Scripts\MenuToggle.cs" />
     <Compile Include="Assets\Scripts\NoRotation.cs" />
     <Compile Include="Assets\Scripts\NoRotationXoff.cs" />
     <Compile Include="Assets\Scripts\ParentScript.cs" />
+    <Compile Include="Assets\Scripts\PauseMenu.cs" />
     <Compile Include="Assets\Scripts\RelativeLocation.cs" />
     <Compile Include="Assets\Scripts\RunCountdown.cs" />
     <Compile Include="Assets\Scripts\ScriptableObjectCoin.cs" />
+    <Compile Include="Assets\Scripts\ScriptableObjectPauseMenu.cs" />
     <None Include="Assets\NastyWizard_IK\NastyIK\README.txt" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/Ryley Burnett/Desktop/OspreyAnatomy/FishProjectSchoolComp_Backup_Best/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
