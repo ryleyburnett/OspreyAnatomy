@@ -75,6 +75,7 @@
     <Compile Include="Assets\Scripts\RunCountdown.cs" />
     <Compile Include="Assets\Scripts\ScriptableObjectCoin.cs" />
     <Compile Include="Assets\Scripts\ScriptableObjectPauseMenu.cs" />
+    <Compile Include="Assets\Scripts\ToggleHUD.cs" />
     <None Include="Assets\NastyWizard_IK\NastyIK\README.txt" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/Ryley Burnett/Desktop/OspreyAnatomy/FishProjectSchoolComp_Backup_Best/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>

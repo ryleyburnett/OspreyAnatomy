@@ -10,16 +10,16 @@ public class PauseMenu : MonoBehaviour
 
 	public void Clicked(string clicked)
 	{
-		print("Clicked");
+		//print("Clicked");
 		
 		if (isPaused.paused == true)
 		{
-			print("Toggled Unpaused");
+			//print("Toggled Unpaused");
 			isPaused.paused = false;
 		}
 		else if(isPaused.paused == false)
 		{
-			print("Toggled Paused");
+			//print("Toggled Paused");
 			isPaused.paused = true;
 		}
 	

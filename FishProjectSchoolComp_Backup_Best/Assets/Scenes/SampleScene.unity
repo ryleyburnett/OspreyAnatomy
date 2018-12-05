@@ -740,7 +740,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isDisplayed: {fileID: 11400000, guid: c59ad212cbe070649b9d45ca0c9e0bae, type: 2}
-  self: {fileID: 327763911}
 --- !u!1 &378451092
 GameObject:
   m_ObjectHideFlags: 0
@@ -1895,7 +1894,7 @@ GameObject:
   - component: {fileID: 630828347}
   - component: {fileID: 630828346}
   m_Layer: 5
-  m_Name: CountdownText
+  m_Name: High Score
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2509,6 +2508,7 @@ GameObject:
   - component: {fileID: 840480060}
   - component: {fileID: 840480059}
   - component: {fileID: 840480058}
+  - component: {fileID: 840480062}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -2603,6 +2603,26 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!114 &840480062
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 840480057}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: debaa3c6866b1cd4d89b736d1e120ed8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  childRenderers1: {fileID: 1705552161}
+  childRenderers2: {fileID: 862315409}
+  childRenderers3: {fileID: 2036221068}
+  childRenderers4: {fileID: 1668417248}
+  childRenderers5: {fileID: 1054591925}
+  childRenderers6: {fileID: 466380996}
+  childRenderers7: {fileID: 1121779853}
+  childRenderers8: {fileID: 630828347}
+  disableRenderers: {fileID: 11400000, guid: c59ad212cbe070649b9d45ca0c9e0bae, type: 2}
 --- !u!1 &862315408
 GameObject:
   m_ObjectHideFlags: 0
@@ -3369,7 +3389,7 @@ GameObject:
   - component: {fileID: 1121779853}
   - component: {fileID: 1121779852}
   m_Layer: 5
-  m_Name: Coin Count
+  m_Name: Coins
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

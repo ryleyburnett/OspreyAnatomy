@@ -6,7 +6,7 @@ public class MenuToggle : MonoBehaviour
 {
 
     public ScriptableObjectPauseMenu isDisplayed;
-    public GameObject self;
+   
 
     private void Update()
     {
