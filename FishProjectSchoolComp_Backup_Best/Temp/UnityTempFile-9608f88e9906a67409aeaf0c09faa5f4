@@ -202,4 +202,5 @@ Assets/Scripts/RelativeLocation.cs
 Assets/Scripts/RunCountdown.cs
 Assets/Scripts/ScriptableObjectCoin.cs
 Assets/Scripts/ScriptableObjectPauseMenu.cs
+Assets/Scripts/ToggleHUD.cs
 -lib:D:\UnityFolder\Editor\Data\MonoBleedingEdge\lib\mono\unity
