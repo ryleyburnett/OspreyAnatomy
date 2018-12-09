@@ -34,7 +34,11 @@
           <e p="RunCountdown.cs" t="Include" />
           <e p="ScriptableObjectCoin.cs" t="Include" />
           <e p="ScriptableObjectPauseMenu.cs" t="Include" />
+          <e p="ScriptableObjectShop.cs" t="Include" />
+          <e p="ShopScriptStore.cs" t="Include" />
+          <e p="ShopScriptToggle.cs" t="Include" />
           <e p="ToggleHUD.cs" t="Include" />
+          <e p="ToggleItems.cs" t="Include" />
         </e>
       </e>
       <e p="FishProjectSchoolComp_Backup_Best.sln" t="IncludeFlat" />

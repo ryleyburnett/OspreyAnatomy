@@ -627,6 +627,7 @@ GameObject:
   - component: {fileID: 327763914}
   - component: {fileID: 327763913}
   - component: {fileID: 327763916}
+  - component: {fileID: 327763917}
   m_Layer: 5
   m_Name: ShopButton
   m_TagString: Untagged
@@ -691,7 +692,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 327763914}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 327763917}
+        m_MethodName: Clicked
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!114 &327763914
@@ -740,6 +752,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isDisplayed: {fileID: 11400000, guid: c59ad212cbe070649b9d45ca0c9e0bae, type: 2}
+--- !u!114 &327763917
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 327763911}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 235e5df0d8c90ec459b7257abeb81254, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  newShop: {fileID: 11400000, guid: 6caa00b1849556d43abfc7c2caadc9d2, type: 2}
 --- !u!1 &378451092
 GameObject:
   m_ObjectHideFlags: 0
