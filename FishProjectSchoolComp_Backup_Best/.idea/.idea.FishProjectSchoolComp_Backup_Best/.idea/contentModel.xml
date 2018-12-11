@@ -20,6 +20,12 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
+          <e p="_ShopScripts" t="Include">
+            <e p="ItemNameText.cs" t="Include" />
+            <e p="ItemPriceText.cs" t="Include" />
+            <e p="ScriptableObjectShop.cs" t="Include" />
+            <e p="ShopScriptStore.cs" t="Include" />
+          </e>
           <e p="CameraFollow.cs" t="Include" />
           <e p="CoinScript.cs" t="Include" />
           <e p="CoinTextReadout.cs" t="Include" />
@@ -34,8 +40,6 @@
           <e p="RunCountdown.cs" t="Include" />
           <e p="ScriptableObjectCoin.cs" t="Include" />
           <e p="ScriptableObjectPauseMenu.cs" t="Include" />
-          <e p="ScriptableObjectShop.cs" t="Include" />
-          <e p="ShopScriptStore.cs" t="Include" />
           <e p="ShopScriptToggle.cs" t="Include" />
           <e p="ToggleHUD.cs" t="Include" />
           <e p="ToggleItems.cs" t="Include" />

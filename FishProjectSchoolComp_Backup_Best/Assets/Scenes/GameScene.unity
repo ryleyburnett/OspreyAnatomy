@@ -628,7 +628,6 @@ GameObject:
   - component: {fileID: 327763913}
   - component: {fileID: 327763916}
   - component: {fileID: 327763917}
-  - component: {fileID: 327763918}
   m_Layer: 5
   m_Name: ShopButton
   m_TagString: Untagged
@@ -769,17 +768,6 @@ MonoBehaviour:
   itemButton: {fileID: 1321123473}
   newShop: {fileID: 11400000, guid: 6caa00b1849556d43abfc7c2caadc9d2, type: 2}
   pauseBool: {fileID: 11400000, guid: c59ad212cbe070649b9d45ca0c9e0bae, type: 2}
---- !u!114 &327763918
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 327763911}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 98bbdbb3ec290f04397b907d0d66be2d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &378451092
 GameObject:
   m_ObjectHideFlags: 0
@@ -2364,6 +2352,7 @@ GameObject:
   - component: {fileID: 780628683}
   - component: {fileID: 780628685}
   - component: {fileID: 780628684}
+  - component: {fileID: 780628686}
   m_Layer: 5
   m_Name: ItemName
   m_TagString: Untagged
@@ -2429,6 +2418,18 @@ CanvasRenderer:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 780628682}
   m_CullTransparentMesh: 0
+--- !u!114 &780628686
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 780628682}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d089606439d3d14dae040fe211f6ac2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  shopText: {fileID: 11400000, guid: 6caa00b1849556d43abfc7c2caadc9d2, type: 2}
 --- !u!1 &791777773
 GameObject:
   m_ObjectHideFlags: 0
@@ -2811,7 +2812,7 @@ MonoBehaviour:
   childRenderers4: {fileID: 1668417248}
   childRenderers5: {fileID: 1054591925}
   childRenderers6: {fileID: 466380996}
-  childRenderers7: {fileID: 1121779853}
+  childRenderers7: {fileID: 630828347}
   childRenderers8: {fileID: 630828347}
   disableRenderers: {fileID: 11400000, guid: c59ad212cbe070649b9d45ca0c9e0bae, type: 2}
 --- !u!114 &840480063
@@ -3116,6 +3117,7 @@ GameObject:
   - component: {fileID: 965234379}
   - component: {fileID: 965234381}
   - component: {fileID: 965234380}
+  - component: {fileID: 965234382}
   m_Layer: 5
   m_Name: ItemPrice
   m_TagString: Untagged
@@ -3181,6 +3183,18 @@ CanvasRenderer:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 965234378}
   m_CullTransparentMesh: 0
+--- !u!114 &965234382
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 965234378}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d60f782a34ba2cf42a999dd187376ec0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  shopText: {fileID: 11400000, guid: 6caa00b1849556d43abfc7c2caadc9d2, type: 2}
 --- !u!1 &973496063
 GameObject:
   m_ObjectHideFlags: 0
@@ -4267,6 +4281,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 98bbdbb3ec290f04397b907d0d66be2d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  shopValues: {fileID: 11400000, guid: 6caa00b1849556d43abfc7c2caadc9d2, type: 2}
+  coinValues: {fileID: 11400000, guid: e929a2e0cc0777d4a8a2a33b3c0d3206, type: 2}
+  coinsYouOwn: 0
+  priceOfItem: 0
 --- !u!114 &1321123478
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4306,7 +4324,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 1321123475}
         m_MethodName: Clicked
         m_Mode: 5
         m_Arguments:

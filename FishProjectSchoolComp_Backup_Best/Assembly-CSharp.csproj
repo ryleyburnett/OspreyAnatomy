@@ -61,6 +61,10 @@
     <Compile Include="Assets\NastyWizard_IK\NastyIK\Scripts\CustomIKJoint.cs" />
     <Compile Include="Assets\NastyWizard_IK\NastyIK\Scripts\CustomIKSolver.cs" />
     <Compile Include="Assets\NastyWizard_IK\NastyIK\Scripts\CustomIKTriSolver.cs" />
+    <Compile Include="Assets\Scripts\_ShopScripts\ItemNameText.cs" />
+    <Compile Include="Assets\Scripts\_ShopScripts\ItemPriceText.cs" />
+    <Compile Include="Assets\Scripts\_ShopScripts\ScriptableObjectShop.cs" />
+    <Compile Include="Assets\Scripts\_ShopScripts\ShopScriptStore.cs" />
     <Compile Include="Assets\Scripts\CameraFollow.cs" />
     <Compile Include="Assets\Scripts\CoinScript.cs" />
     <Compile Include="Assets\Scripts\CoinTextReadout.cs" />
@@ -75,8 +79,6 @@
     <Compile Include="Assets\Scripts\RunCountdown.cs" />
     <Compile Include="Assets\Scripts\ScriptableObjectCoin.cs" />
     <Compile Include="Assets\Scripts\ScriptableObjectPauseMenu.cs" />
-    <Compile Include="Assets\Scripts\ScriptableObjectShop.cs" />
-    <Compile Include="Assets\Scripts\ShopScriptStore.cs" />
     <Compile Include="Assets\Scripts\ShopScriptToggle.cs" />
     <Compile Include="Assets\Scripts\ToggleHUD.cs" />
     <Compile Include="Assets\Scripts\ToggleItems.cs" />
