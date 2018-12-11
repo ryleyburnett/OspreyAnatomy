@@ -41,7 +41,7 @@ public class ToggleHUD : MonoBehaviour
 			childRenderers5.enabled = false;
 			childRenderers6.enabled = false;
 			childRenderers7.enabled = false;
-			childRenderers8.enabled = false;
+			childRenderers8.enabled = true;
 		}
 		else if(disableRenderers.paused == false)
 		{
@@ -52,7 +52,7 @@ public class ToggleHUD : MonoBehaviour
 			childRenderers5.enabled = true;
 			childRenderers6.enabled = true;
 			childRenderers7.enabled = true;
-			childRenderers8.enabled = true;
+			childRenderers8.enabled = false;
 		}
 	}
 }

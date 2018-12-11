@@ -8,6 +8,7 @@ public class ToggleItems : MonoBehaviour
 {
 	public GameObject itemButton;
 	public ScriptableObjectShop newShop;
+	public Text controlsDisplay;
 	
 
 	private void Update()
@@ -15,11 +16,13 @@ public class ToggleItems : MonoBehaviour
 		if (newShop.shopDisplayed == true)
 		{
 			itemButton.SetActive(true);
+			controlsDisplay.enabled = false;
 		
 		}
 		else if(newShop.shopDisplayed == false)
 		{
 			itemButton.SetActive(false);
+			
 		}
 	}
 }
